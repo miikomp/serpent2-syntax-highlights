@@ -1,3 +1,3 @@
 # Change Log
 
-- First release
+- Added input cards added in newer Serpent versions
