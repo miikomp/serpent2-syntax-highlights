@@ -13,5 +13,5 @@ Below is a screenshot of an example from the [Serpent 2 wiki tutorial](https://s
 
 # Installation
 
-1. Run [`Install Extension`](https://code.visualstudio.com/docs/editor/extension-gallery#_install-an-extension) command from [Command Palette](https://code.visualstudio.com/Docs/editor/codebasics#_command-palette).
-2. Select the extension named `Serpent 2 Syntax Highlighting`.
+1. Clone this repository
+2. See instructions [here](https://stackoverflow.com/questions/50714638/install-extension-from-a-specific-repo-branch-on-github)
