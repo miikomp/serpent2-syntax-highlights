@@ -1,8 +1,8 @@
 {
   "name": "serpent-2-syntax-highlighting",
   "displayName": "Serpent 2 Syntax Highlighting",
-  "publisher": "ColeFritsch",
-  "version": "0.3.1",
+  "publisher": "miikomp",
+  "version": "0.3.2",
   "engines": {
     "vscode": "^1.23.0"
   },
@@ -18,8 +18,8 @@
           "serpent"
         ],
         "extensions": [
-          ".se",
-          ".sse"
+          ".inp",
+          ".inc"
         ],
         "configuration": "./language-configuration.json"
       }
@@ -41,7 +41,7 @@
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Oncure/serpent2-syntax-highlights.git"
+    "url": "https://github.com/miikomp/serpent2-syntax-highlights.git"
   },
-  "homepage": "https://github.com/Oncure/serpent2-syntax-highlights"
+  "homepage": "https://github.com/miikomp/serpent2-syntax-highlights.git"
 }
